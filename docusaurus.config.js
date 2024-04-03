@@ -80,7 +80,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/header.jpg',
+      image: 'img/header.png',
       navbar: {
         title: 'CP Hispana',
         logo: {
@@ -103,7 +103,7 @@ const config = {
         ],
       },
       footer: {
-        copyright: `Proyecto de Código Abierto. Construido con Docusaurus.`,
+        copyright: `Proyecto de Código Abierto. Mantenido por <a href="https://github.com/Alejandro-Figueiras" target="_blank" rel="noopener noreferrer">Alejandro-Figueiras</a> Construido con Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
